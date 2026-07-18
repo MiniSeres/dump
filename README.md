@@ -25,6 +25,10 @@ Công cụ tập trung vào:
 - Python 3.10 trở lên
 - Kết nối Internet
 - Terminal (khuyến nghị Termux trên Android)
+# khuyến nghị sử dụng các app
+- python 3
+- Qpython 3l
+- termux (F-Droid)
 
 ---
 
@@ -177,7 +181,10 @@ Required modules:
 
 - requests
 - beautifulsoup4
-
+# Recommended apps to use:
+- Python 3
+- QPython 3L
+- Termux (F-Droid)
 ---
 
 # Installation
