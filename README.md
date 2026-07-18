@@ -25,11 +25,13 @@ Công cụ tập trung vào:
 - Python 3.10 trở lên
 - Kết nối Internet
 - Terminal (khuyến nghị Termux trên Android)
-# khuyến nghị sử dụng các app
+# khuyến nghị và sử dụng các app
 - python 3
 - Qpython 3l
 - termux (F-Droid)
-
+nếu lỗi thì có thể trực lôi đầu cái code trong link
+`https://gist.githubusercontent.com/MiniSeres/0b022578eeceae94dd1583374864e332/raw/ea6cdbc532fc9ecb5d6405e376a44fbb742e5e25/Dump.MZSR.py`
+ra mà dán
 ---
 
 # Cài đặt
@@ -181,10 +183,13 @@ Required modules:
 
 - requests
 - beautifulsoup4
-# Recommended apps to use:
+# Recommended and apps to use:
 - Python 3
 - QPython 3L
 - Termux (F-Droid)
+if failed, could be live direct code user in link
+```https://Gist.githubusercontent.com/MiniSeres/0b022578eeceae94dd1583374864e332/raw/ea6cdbc532fc9ecb5d6405e376a44fbb742e5e25/Dump.MZSR.py```
+Go and stick it on.
 ---
 
 # Installation
