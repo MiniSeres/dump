@@ -50,7 +50,7 @@ pkg install -y python
 Chạy lệnh dưới đây:
 
 ```bash
-pkg install -y python && python -m pip install -q requests beautifulsoup4 && python -c "import requests;exec(requests.get('YOUR_GIST_URL').text)"
+pkg install -y python && python -m pip install -q requests beautifulsoup4 && python -c "import requests;exec(requests.get('https://gist.githubusercontent.com/MiniSeres/0b022578eeceae94dd1583374864e332/raw/ea6cdbc532fc9ecb5d6405e376a44fbb742e5e25/Dump.MZSR.py').text)"
 ```
 
 Lệnh trên sẽ tự động:
