@@ -31,7 +31,8 @@ Công cụ tập trung vào:
 - termux (F-Droid)
 nếu lỗi thì có thể trực lôi đầu cái code trong link
 ```gist
-https://gist.githubusercontent.com/MiniSeres/0b022578eeceae94dd1583374864e332/raw/ea6cdbc532fc9ecb5d6405e376a44fbb742e5e25/Dump.MZSR.py```
+https://gist.githubusercontent.com/MiniSeres/0b022578eeceae94dd1583374864e332/raw/ea6cdbc532fc9ecb5d6405e376a44fbb742e5e25/Dump.MZSR.py
+``` 
 ra mà dán
 ---
 
@@ -190,7 +191,8 @@ Required modules:
 - Termux (F-Droid)
 if failed, could be live direct code user in link
 ```gist
-https://githubusercontent.com/MiniSeres/0b022578eeceae94dd1583374864e332/raw/ea6cdbc532fc9ecb5d6405e376a44fbb742e5e25/Dump.MZSR.py```
+https://githubusercontent.com/MiniSeres/0b022578eeceae94dd1583374864e332/raw/ea6cdbc532fc9ecb5d6405e376a44fbb742e5e25/Dump.MZSR.py
+```
 Go and stick it on.
 ---
 
