@@ -134,8 +134,9 @@ Hiện tại: **v6.0**
 
 ---
 
-# ---------
+---
 # ENG
+---
 # MzSr Dumper
 
 A fast, lightweight, and modern Python-based website resource dumper.
